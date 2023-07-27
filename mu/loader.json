@@ -3,4 +3,4 @@
     "class":"Program",
     "method":"Main",
     "depends":["MetroFramework.dll","MetroFramework.Fonts.dll","MetroFramework.Design.dll"]
-}
+} 
